@@ -2,7 +2,7 @@
 
 using System;
 using System.Collections.Generic;
-class R2_T03_Rekurzija_BFS_Skakac
+class R2_T03_Rekurzija_BFS_Matrica_Skakac
 {
     static void Main()
     {
