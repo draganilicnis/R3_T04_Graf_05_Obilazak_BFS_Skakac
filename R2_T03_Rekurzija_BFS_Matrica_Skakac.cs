@@ -1,4 +1,6 @@
 // https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka2/broj_poteza_konja
+// https://arena.petlja.org/sr-Latn-RS/competition/r2-t04-05-lavirint#tab_134649
+// https://onlinegdb.com/vA4QfwKDo
 
 using System;
 using System.Collections.Generic;
